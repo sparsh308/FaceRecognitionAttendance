@@ -44,3 +44,6 @@ https://medium.com/dataseries/face-recognition-with-opencv-haar-cascade-a289b6ff
 	•Re-calibrating the algorithms or choose better algorithms.
 	•For more convenience, this application can be converted into an android application to work with smartphone cameras to generate attendance without need for extra equipment required in an IOT system.
 	•Application can be made more secure and scalable.
+
+#### This is how my Front-End UI looks
+<a href="https://github.com/akashmittal18/FaceRecognitionAttendance/blob/master/FaceAttendace.png">test.py</a>:
