@@ -22,3 +22,25 @@ TECHNOLOGIES/TOOLS USED-
 • Tkinter for Gui
 • Pandas Library
 • PIL Library
+
+Algorithm Used
+
+Local Binary Pattern Histogram(LBPH) 
+It is a simple yet very efficient texture operator which labels the pixels of an
+image by thresholding the neighborhood of each pixel and considers the result as a binary number.
+
+
+#### Refrence Links
+
+https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv
+https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b
+https://docs.python.org/3/
+
+https://medium.com/dataseries/face-recognition-with-opencv-haar-cascade-a289b6ff042a
+
+#### Future Scope
+
+	•This application can be further enhanced by using higher resolution cameras
+	•Re-calibrating the algorithms or choose better algorithms.
+	•For more convenience, this application can be converted into an android application to work with smartphone cameras to generate attendance without need for extra equipment required in an IOT system.
+	•Application can be made more secure and scalable.
