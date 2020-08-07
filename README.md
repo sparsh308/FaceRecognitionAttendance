@@ -46,4 +46,4 @@ https://medium.com/dataseries/face-recognition-with-opencv-haar-cascade-a289b6ff
 	•Application can be made more secure and scalable.
 
 #### This is how my Front-End UI looks
-<a href="https://github.com/akashmittal18/FaceRecognitionAttendance/blob/master/FaceAttendace.png">test.py</a>:
+<img src="https://github.com/akashmittal18/FaceRecognitionAttendance/blob/master/FaceAttendace.png">
